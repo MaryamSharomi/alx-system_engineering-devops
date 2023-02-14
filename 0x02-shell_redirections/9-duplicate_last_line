@@ -1,2 +1,2 @@
-#!/bin/bash 
-last_line=$(tail -n 1 iacta)
+#!/bin/bash )
+awk {print >/bin/bash}1 file
